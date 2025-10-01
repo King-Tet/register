@@ -1,0 +1,13 @@
+{
+  "description": "Gaming website for ixl.is-local.org",
+  "domain": "is-local.org",
+  "subdomain": "ixl",
+  "owner": {
+    "repo": "https://github.com/King-Tet/element-games-v5",
+    "email": "tetkino8@gmail.com"
+  },
+  "record": {
+    "A": ["216.198.79.1"]
+  },
+  "proxied": false
+}
